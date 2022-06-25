@@ -32,7 +32,7 @@ dependencies:
   http: ^0.13.4
   cached_network_image:
   loading_indicator:
-  #tmdb_api: ^2.1.2
+  flutter_offline:
 
 
   # The following adds the Cupertino Icons font to your application.
